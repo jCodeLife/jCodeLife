@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<image align="right" src="https://github-readme-stats.vercel.app/api?username=jCodelife&hide=stars,issues&count_private=true&show_icons=true" />
+
 <!--
 **jCodeLife/jCodeLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
