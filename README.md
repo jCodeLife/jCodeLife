@@ -14,6 +14,7 @@
 - [掘金](https://juejin.cn/user/3957856403462989/posts)
 - [简书](https://www.jianshu.com/u/851bd01f6233)
 
+##### 📫 bingjin.liao@outlook.com
 
 <!--
 **jCodeLife/jCodeLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
