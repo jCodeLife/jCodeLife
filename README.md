@@ -1,10 +1,8 @@
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jCodelife&show_icons=true&icon_color=FF4400&text_color=344899&bg_color=000000&hide_title=true" /> 
 <!--
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jCodelife&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jCodelife&show_icons=true&icon_color=FF4400&text_color=344899&bg_color=000000&hide_title=false" /> 
 -->
-
 
 #### Hi 我是LBJ👋
 
