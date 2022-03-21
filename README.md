@@ -13,8 +13,8 @@
 -->
 
 ##### 社区主页
-1. [掘金](https://juejin.cn/user/3957856403462989/posts)
-2. [简书](https://www.jianshu.com/u/851bd01f6233)
+- 掘金: [LBJ](https://juejin.cn/user/3957856403462989/posts)
+- 简书: [深度剖析JavaScript](https://www.jianshu.com/u/851bd01f6233)
 
 
 
