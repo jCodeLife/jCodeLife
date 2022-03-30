@@ -4,17 +4,22 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jCodelife&show_icons=true&icon_color=f66f6a&text_color=5e7ce0&bg_color=ffffff&hide_title=false" /> 
 -->
 
-#### Hi 我是LBJ👋 
+#### Hey, welcome! 👋 
 
-> 一名90后，爱看美剧、做美食、对技术有兴趣
+#### Creations
+- mind-map: https://github.com/jCodeLife/mind-map
+
+#### Contributions
+1. Vue 3 docs-zh-cn (lots): https://github.com/vuejs-translations/docs-zh-cn/commits?author=jcodelife
+2. Vue 3 docs (few): https://github.com/vuejs/docs/commits?author=jcodelife
 
 <!--
 ###### 🔭 开源项目[vue-ui]()
 -->
 
-#### 社区主页
-- 掘金：[LBJ](https://juejin.cn/user/3957856403462989/posts)
-- 简书：[深度剖析JavaScript](https://www.jianshu.com/u/851bd01f6233)
+#### Community 🌱
+1. 掘金：[LBJ](https://juejin.cn/user/3957856403462989/posts) 
+2. 简书：[深度剖析JavaScript](https://www.jianshu.com/u/851bd01f6233)
 
 
 
