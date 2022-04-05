@@ -1,12 +1,4 @@
 
-<!--
-[![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#交流)
-
-
-
-
-[![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/161753278)
--->
 
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jCodelife&show_icons=true&icon_color=f66f6a&text_color=5e7ce0&bg_color=ffffff&hide_title=false" /> 
@@ -47,7 +39,7 @@
 [![](https://img.shields.io/badge/Jianshu-简书LV7-e9634c)](https://www.jianshu.com/u/851bd01f6233)
 [![](https://img.shields.io/badge/bilili-哔哩哔哩-fb7299)](https://space.bilibili.com/392983776)
 [![](https://img.shields.io/badge/Weibo-微博-ff8200)](https://weibo.com/u/7592834625)
-
+[![](https://img.shields.io/badge/微信公众号-地府算法-brightgreen)]()
 
 <!--
 **jCodeLife/jCodeLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
