@@ -15,6 +15,7 @@
 ##### 👋 Hey,I’m J,welcome! 
 
 - 🌱 I’m currently learning React
+- 📫 How to reach me: bingjin.liao@outlook.com
 
 ##### 🛠 Creations
 
