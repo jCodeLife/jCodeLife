@@ -12,8 +12,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jCodelife&show_icons=true&icon_color=f66f6a&text_color=5e7ce0&bg_color=ffffff&hide_title=false" /> 
 -->
 
-##### 👋 Hey, welcome! 
+##### 👋 Hey,I’m J,welcome! 
 
+- 🌱 I’m currently learning React
 
 ##### 🛠 Creations
 
@@ -24,6 +25,9 @@
 
 [![](https://img.shields.io/badge/Vue3-官方文档(few)-155f3e)](https://github.com/vuejs/docs/commits?author=jcodelife)
 [![](https://img.shields.io/badge/Vue3-官方中文文档(lots)-42b883)](https://github.com/vuejs-translations/docs-zh-cn/commits?author=jcodelife)
+
+[![](https://img.shields.io/badge/roadmap-前端学习路线-29d)](https://github.com/shengxinjing/it-roadmap/commits?author=jcodelife)
+
 
 
 <!--
