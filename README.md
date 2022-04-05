@@ -6,8 +6,8 @@
 
 ##### 👋 Hey,I’m J,welcome! 
 
-- 🌱 I’m currently learning React
-- 📫 How to reach me: bingjin.liao@outlook.com
+- 🌱 I’m currently learning 
+
 
 ##### 🛠 Creations
 
@@ -37,9 +37,16 @@
 
 [![](https://img.shields.io/badge/Juejin-掘金LV5-blue)](https://juejin.im/user/https://juejin.cn/user/3957856403462989/posts)
 [![](https://img.shields.io/badge/Jianshu-简书LV7-e9634c)](https://www.jianshu.com/u/851bd01f6233)
+
+
+<!--
+
 [![](https://img.shields.io/badge/bilili-哔哩哔哩-fb7299)](https://space.bilibili.com/392983776)
 [![](https://img.shields.io/badge/Weibo-微博-ff8200)](https://weibo.com/u/7592834625)
 [![](https://img.shields.io/badge/微信公众号-地府算法-brightgreen)]()
+
+-->
+
 
 <!--
 **jCodeLife/jCodeLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
