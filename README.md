@@ -16,8 +16,8 @@
 
 ##### 💌 Contributions
 
-[![](https://img.shields.io/badge/Vue3-官方文档(few)-155f3e)](https://github.com/vuejs/docs/commits?author=jcodelife)
-[![](https://img.shields.io/badge/Vue3-官方中文文档(lots)-42b883)](https://github.com/vuejs-translations/docs-zh-cn/commits?author=jcodelife)
+[![](https://img.shields.io/badge/Vue3-官方文档(lots)-42b883)](https://github.com/vuejs-translations/docs-zh-cn/commits?author=jcodelife)
+[![](https://img.shields.io/badge/Vue3-官方英文文档(few)-155f3e)](https://github.com/vuejs/docs/commits?author=jcodelife)
 
 [![](https://img.shields.io/badge/roadmap-前端学习路线-29d)](https://github.com/shengxinjing/it-roadmap/commits?author=jcodelife)
 
