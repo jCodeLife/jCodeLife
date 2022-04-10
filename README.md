@@ -6,8 +6,6 @@
 
 ##### 👋 Hey,I’m J,welcome! 
 
-- 🌱 I’m currently learning 
-
 
 ##### 🛠 Creations
 
