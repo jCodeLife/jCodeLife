@@ -9,13 +9,16 @@
 
 ##### 🛠 Creations
 
-[![](https://img.shields.io/badge/mindmap-脑图-orange)](https://github.com/jCodeLife/mind-map)
+[![](https://img.shields.io/badge/MindMap-脑图-orange)](https://github.com/jCodeLife/mind-map)
+[![](https://img.shields.io/badge/FEResources-前端资源-pink)](https://github.com/jCodeLife/quality-front-end-resources)
+[![](https://img.shields.io/badge/fireworks-烟花-deeppink)](https://github.com/jCodeLife/beautiful-fireworks)
+ 
 
 
 ##### 💌 Contributions
 
-[![](https://img.shields.io/badge/Vue3-官方文档(lots)-42b883)](https://github.com/vuejs-translations/docs-zh-cn/commits?author=jcodelife)
-[![](https://img.shields.io/badge/Vue3-官方英文文档(few)-155f3e)](https://github.com/vuejs/docs/commits?author=jcodelife)
+[![](https://img.shields.io/badge/vuejs-官方文档(lots)-42b883)](https://github.com/vuejs-translations/docs-zh-cn/commits?author=jcodelife)
+[![](https://img.shields.io/badge/vuejs-官方英文文档(few)-155f3e)](https://github.com/vuejs/docs/commits?author=jcodelife)
 
 [![](https://img.shields.io/badge/roadmap-前端学习路线-29d)](https://github.com/shengxinjing/it-roadmap/commits?author=jcodelife)
 
