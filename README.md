@@ -12,7 +12,9 @@
 [![](https://img.shields.io/badge/MindMap-脑图-orange)](https://github.com/jCodeLife/mind-map)
 [![](https://img.shields.io/badge/FEResources-前端资源-pink)](https://github.com/jCodeLife/quality-front-end-resources)
 
-[![](https://img.shields.io/badge/Fireworks-烟花-deeppink)](https://github.com/jCodeLife/beautiful-fireworks)
+[![](https://img.shields.io/badge/Fireworks-烟花-green)](https://github.com/jCodeLife/beautiful-fireworks)
+[![](https://img.shields.io/badge/Game-美女与龙珠-E384E6 )](https://github.com/jCodeLife/beauty-and-dragonball)
+
  
 
 
