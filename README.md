@@ -39,8 +39,8 @@
 
 ##### 📚 Elsewhere
 
-[![](https://img.shields.io/badge/Juejin-掘金LV6-F73430)](https://juejin.im/user/https://juejin.cn/user/3957856403462989/posts)
-[![](https://img.shields.io/badge/Jianshu-简书LV7-blue)](https://www.jianshu.com/u/851bd01f6233)
+[![](https://img.shields.io/badge/Juejin-掘金LV6-F65C58)](https://juejin.im/user/https://juejin.cn/user/3957856403462989/posts)
+[![](https://img.shields.io/badge/Jianshu-简书LV7-A569BD )](https://www.jianshu.com/u/851bd01f6233)
 
 [![](https://img.shields.io/badge/bilili-哔哩哔哩-fb7299)](https://space.bilibili.com/392983776)
 
