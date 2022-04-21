@@ -19,7 +19,7 @@
 
 
 ##### 💌 Contributions
-[![](https://img.shields.io/badge/DevCloudFE-vuedevui-5e7ce0)](https://github.com/DevCloudFE/vue-devui)
+[![](https://img.shields.io/badge/DevUI-Vue3组件库-5e7ce0)](https://github.com/DevCloudFE/vue-devui)
 
 [![](https://img.shields.io/badge/vuejs-官方文档(lots)-42b883)](https://github.com/vuejs-translations/docs-zh-cn/commits?author=jcodelife)
 [![](https://img.shields.io/badge/vuejs-官方英文文档(few)-155f3e)](https://github.com/vuejs/docs/commits?author=jcodelife)
