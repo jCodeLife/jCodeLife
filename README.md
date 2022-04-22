@@ -26,13 +26,13 @@
 ##### 💌 Contributions
 [![](https://img.shields.io/badge/DevUI-Vue3组件库-5e7ce0)](https://github.com/DevCloudFE/vue-devui)
 
-[![](https://img.shields.io/badge/Vuejs-官方文档(lots)-42b883)](https://github.com/vuejs-translations/docs-zh-cn/commits?author=jcodelife)
-[![](https://img.shields.io/badge/Vuejs-官方英文文档(few)-155f3e)](https://github.com/vuejs/docs/commits?author=jcodelife)
+[![](https://img.shields.io/badge/Vuejs-官方文档(lots)-155f3e)](https://github.com/vuejs-translations/docs-zh-cn/commits?author=jcodelife)
+[![](https://img.shields.io/badge/Vuejs-官方英文文档(few)-42b883)](https://github.com/vuejs/docs/commits?author=jcodelife)
 
-[![](https://img.shields.io/badge/RoadMap-前端学习路线-29d)](https://github.com/shengxinjing/it-roadmap/commits?author=jcodelife)
+[![](https://img.shields.io/badge/RoadMap-前端学习路线-AF601A)](https://github.com/shengxinjing/it-roadmap/commits?author=jcodelife)
 
 
-[![](https://img.shields.io/badge/JueJin-掘金游戏后花园-AF7AC5 )](https://github.com/xitu/game-garden)
+[![](https://img.shields.io/badge/JueJin-掘金游戏后花园-212F3C)](https://github.com/xitu/game-garden)
 
 
 
@@ -50,9 +50,9 @@
 ##### 📚 Elsewhere
 
 [![](https://img.shields.io/badge/Juejin-掘金LV6-1e80ff)](https://juejin.im/user/https://juejin.cn/user/3957856403462989/posts)
-[![](https://img.shields.io/badge/Jianshu-简书LV7-A569BD )](https://www.jianshu.com/u/851bd01f6233)
+[![](https://img.shields.io/badge/Jianshu-简书LV7-fb7299 )](https://www.jianshu.com/u/851bd01f6233)
 
-[![](https://img.shields.io/badge/Bilili-哔哩哔哩-fb7299)](https://space.bilibili.com/392983776)
+[![](https://img.shields.io/badge/Bilili-哔哩哔哩-00aeec)](https://space.bilibili.com/392983776)
 
 <!--
 
