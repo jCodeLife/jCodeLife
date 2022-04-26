@@ -49,7 +49,7 @@
 
 ##### 📚 Elsewhere
 
-[![](https://img.shields.io/badge/Juejin-掘金LV6-1e80ff)](https://juejin.im/user/https://juejin.cn/user/3957856403462989/posts)
+[![](https://img.shields.io/badge/Juejin-掘金LV6-1e80ff)](https://juejin.cn/user/3957856403462989/posts)
 [![](https://img.shields.io/badge/Jianshu-简书LV7-fb7299 )](https://www.jianshu.com/u/851bd01f6233)
 
 [![](https://img.shields.io/badge/Bilili-哔哩哔哩-00aeec)](https://space.bilibili.com/392983776)
