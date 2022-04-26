@@ -1,7 +1,18 @@
 
 
 <!--
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jCodelife&show_icons=true&icon_color=f66f6a&text_color=5e7ce0&bg_color=ffffff&hide_title=false" /> 
+**jCodeLife/jCodeLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
 
 
@@ -37,15 +48,10 @@
 
 
 
-<!--
-- Vue 3 docs-zh-cn (lots): https://github.com/vuejs-translations/docs-zh-cn/commits?author=jcodelife
-- Vue 3 docs (few): https://github.com/vuejs/docs/commits?author=jcodelife
--->
 
 
-<!--
-###### 🔭 开源项目[vue-ui]()
--->
+
+
 
 ##### 📚 Elsewhere
 
@@ -54,29 +60,9 @@
 
 
 
-[![](https://img.shields.io/badge/WeChat-公众号【前端有点意思】-00aeec)](https://space.bilibili.com/392983776)
+[![](https://img.shields.io/badge/公众号-前端有点意思-00aeec)](https://space.bilibili.com/392983776)
 [![](https://img.shields.io/badge/Bilibili-前端周刊-F1948A)](https://space.bilibili.com/392983776)
 
-<!--
-
-[![](https://img.shields.io/badge/bilili-哔哩哔哩-fb7299)](https://space.bilibili.com/392983776)
-[![](https://img.shields.io/badge/Weibo-微博-ff8200)](https://weibo.com/u/7592834625)
-[![](https://img.shields.io/badge/微信公众号-地府算法-brightgreen)]()
-
--->
 
 
-<!--
-**jCodeLife/jCodeLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
