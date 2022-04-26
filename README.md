@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 
 [![](https://img.shields.io/badge/公众号-前端有点意思-00aeec)](https://space.bilibili.com/392983776)
-[![](https://img.shields.io/badge/Bilibili-前端周刊-F1948A)](https://space.bilibili.com/392983776)
+<!-- [![](https://img.shields.io/badge/Bilibili-前端周刊-F1948A)](https://space.bilibili.com/392983776) -->
 
 
 
