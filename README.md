@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 
 ##### 📚 Elsewhere
 
-[![](https://img.shields.io/badge/Juejin-掘金LV6-1e80ff)](https://juejin.cn/user/3957856403462989/posts)
-[![](https://img.shields.io/badge/Jianshu-简书LV7-fb7299 )](https://www.jianshu.com/u/851bd01f6233)
+[![](https://img.shields.io/badge/掘金-社区共建者-1e80ff)](https://juejin.cn/user/3957856403462989/posts)
+[![](https://img.shields.io/badge/简书-简书创作者-fb7299 )](https://www.jianshu.com/u/851bd01f6233)
 
 
 
