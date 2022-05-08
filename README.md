@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/RoadMap-前端学习路线-AF601A)](https://github.com/shengxinjing/it-roadmap/commits?author=jcodelife)
 
 
-[![](https://img.shields.io/badge/JueJin-掘金游戏后花园-212F3C)](https://github.com/xitu/game-garden)
+[![](https://img.shields.io/badge/JueJin-游戏后花园-212F3C)](https://github.com/xitu/game-garden)
 
 
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 
 
-[![](https://img.shields.io/badge/公众号-前端有点意思-00aeec)](https://space.bilibili.com/392983776)
+[![](https://img.shields.io/badge/公众号-前端有点意思-00aeec)]()
 <!-- [![](https://img.shields.io/badge/Bilibili-前端周刊-F1948A)](https://space.bilibili.com/392983776) -->
 
 
