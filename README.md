@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/FEResources-前端资源-CD6155)](https://github.com/jCodeLife/quality-front-end-resources)
 
 [![](https://img.shields.io/badge/Fireworks-烟花-8E44AD)](https://github.com/jCodeLife/beautiful-fireworks)
-[![](https://img.shields.io/badge/Game-美女与龙珠-E384E6 )](https://github.com/jCodeLife/beauty-and-dragonball)
+[![](https://img.shields.io/badge/Game-龙珠-E384E6 )](https://github.com/jCodeLife/beauty-and-dragonball)
 
  
 
