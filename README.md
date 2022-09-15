@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ##### 👋 Hey,I’m J,welcome! 
 
+![jCodeLife's GitHub stats](https://github-readme-stats.vercel.app/api?username=jCodeLife&show_icons=true&theme=dracula)
+
 <!--
 ##### 📚 Elsewhere
 -->
@@ -29,17 +31,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/掘金-社区共建者-1e80ff)](https://juejin.cn/user/3957856403462989/posts)
 [![](https://img.shields.io/badge/简书-简书创作者-fb7299 )](https://www.jianshu.com/u/851bd01f6233)
 
-![jCodeLife's GitHub stats](https://github-readme-stats.vercel.app/api?username=jCodeLife&show_icons=true&theme=dracula)
 
-##### 🛠 Creations
-
-[![](https://img.shields.io/badge/MindMap-脑图-148F77)](https://github.com/jCodeLife/mind-map)
-[![](https://img.shields.io/badge/FEResources-前端资源-CD6155)](https://github.com/jCodeLife/quality-front-end-resources)
-
-[![](https://img.shields.io/badge/Fireworks-烟花-8E44AD)](https://github.com/jCodeLife/beautiful-fireworks)
-[![](https://img.shields.io/badge/Game-龙珠-E384E6 )](https://github.com/jCodeLife/beauty-and-dragonball)
-
- 
 
 
 ##### 💌 Contributions
@@ -51,7 +43,15 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/RoadMap-前端线路-AF601A)](https://github.com/shengxinjing/it-roadmap/commits?author=jcodelife)
 [![](https://img.shields.io/badge/JueJin-掘金-212F3C)](https://github.com/xitu/game-garden)
 
+##### 🛠 Creations
 
+[![](https://img.shields.io/badge/MindMap-脑图-148F77)](https://github.com/jCodeLife/mind-map)
+[![](https://img.shields.io/badge/FEResources-前端资源-CD6155)](https://github.com/jCodeLife/quality-front-end-resources)
+
+[![](https://img.shields.io/badge/Fireworks-烟花-8E44AD)](https://github.com/jCodeLife/beautiful-fireworks)
+[![](https://img.shields.io/badge/Game-龙珠-E384E6 )](https://github.com/jCodeLife/beauty-and-dragonball)
+
+ 
 
 
 
