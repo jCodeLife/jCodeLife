@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 
 
 ##### 👋 Hey,I’m J,welcome! 
-<!--
+
 ![jCodeLife's GitHub stats](https://github-readme-stats.vercel.app/api?username=jCodeLife&show_icons=true&theme=dracula)
 
--->
 ##### 🛠 Creations
 
 [![](https://img.shields.io/badge/MindMap-脑图-148F77)](https://github.com/jCodeLife/mind-map)
