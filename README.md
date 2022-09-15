@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Vuejs-官方英文文档(few)-42b883)](https://github.com/vuejs/docs/commits?author=jcodelife)
 
 [![](https://img.shields.io/badge/Reactjs-官方中文文档-61dafb)](https://github.com/reactjs/zh-hans.reactjs.org/commits?author=jcodelife)
-[![](https://img.shields.io/badge/RoadMap-前端学习路线-AF601A)](https://github.com/shengxinjing/it-roadmap/commits?author=jcodelife)
+[![](https://img.shields.io/badge/RoadMap-前端线路图-AF601A)](https://github.com/shengxinjing/it-roadmap/commits?author=jcodelife)
 [![](https://img.shields.io/badge/JueJin-游戏后花园-212F3C)](https://github.com/xitu/game-garden)
 
 
